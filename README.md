@@ -11,7 +11,7 @@ TEST BADGE
 
 ## Dependencies
 
-- Recommended text editor: [Visual Studio Code](https://code.visualstudio.com/)
+- A text editor (example : [Visual Studio Code](https://code.visualstudio.com/))
 - [React](https://reactjs.org/)
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start)
 - [prop-types](https://github.com/facebook/prop-types)
