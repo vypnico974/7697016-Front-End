@@ -6,7 +6,7 @@ TEST BADGE
 ![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)
 
 
-![20220408152532](https://github.com/vypnico974/7697016-Front-End/releases/download/untagged-0191d653d331a9584f65/Test.png)
+![alt tag](https://github.com/vypnico974/7697016-Front-End/releases/download/untagged-0191d653d331a9584f65/Test.png)
 
 ## Prerequisites
 
