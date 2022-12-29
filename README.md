@@ -1,16 +1,10 @@
-# 7697016-Front-End
-Exercice entrainement openclassrooms
-
-TEST BADGE
+# P12_OpenClassrooms_SportSee
 
 ![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)
 
-
-![alt tag](https://github.com/vypnico974/7697016-Front-End/releases/download/untagged-0191d653d331a9584f65/Test.png)
-
 ## Prerequisites
 
-- [NodeJS (version 18.7.0)](https://nodejs.org/en/)
+- [NodeJS ( >= version 18.7.0)](https://nodejs.org/en/)
 
 ## Dependencies
 
@@ -22,11 +16,30 @@ TEST BADGE
 - [axios](https://axios-http.com/)
 - [recharts](https://recharts.org/en-US/)
 
+
 ## Installation
 
-1. Get the backend
+# 1- Install and launch the BackEnd
 
 - This project uses an API available [here](https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard).
-- There are 2 users available, their URL are :
+- There are 2 users available and their URL are :
   - `http://localhost:3000/user/12`
   - `http://localhost:3000/user/18`
+
+# 2- Install and launch the FrontEnd
+
+- Clone this repository :
+    git clone https://github.com/vypnico974/P12_OpenClassrooms_SportSee.git
+- Package installations after cloning, npm or yarn :
+    # with NPM
+    npm install
+    # with NPM
+    yarn install
+- Run the FrontEnd :  
+    # with NPM
+    npm start
+    # with NPM
+    yarn start
+- There are 2 users available and their URL are :
+  - http://localhost:3001/user/12
+  - http://localhost:3001/user/18
