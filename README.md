@@ -1,6 +1,11 @@
 # P12_OpenClassrooms_SportSee
 
-![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)
+![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)       
+
+
+![logo](https://raw.githubusercontent.com/vypnico974/P13_OpenClassrooms_ArgentBank/main/src/assets/argentBankLogo.png)
+
+
 
 ## Prerequisites
 
