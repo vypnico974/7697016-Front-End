@@ -55,8 +55,8 @@
 # P13 OpenClassrooms Argent Bank
 
 ![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dev.to/envoy_/150-badges-for-github-pnk)
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
+                                                                [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://dev.to/envoy_/150-badges-for-github-pnk)
+                                                                [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 
 ## Prerequisites
