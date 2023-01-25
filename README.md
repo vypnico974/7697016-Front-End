@@ -46,7 +46,7 @@
   - `http://localhost:3001/user/18`
   
   
-  # P13 OpenClassrooms Argent Bank
+# P13 OpenClassrooms Argent Bank
 
 ![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)
 
@@ -64,10 +64,6 @@
 - [@reduxjs/toolkit](https://redux.js.org/introduction/installation)
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start)
 - [prop-types](https://github.com/facebook/prop-types)
-
-
-https://redux.js.org/introduction/installation
-
 
 
 ## Installation
@@ -91,9 +87,6 @@ https://redux.js.org/introduction/installation
     - with yarn :
     yarn start
 - There are 2 users available and their URL are : `http://localhost/`
-
-
-
 
 
 
