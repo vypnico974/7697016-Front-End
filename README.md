@@ -1,4 +1,4 @@
-# ENTRAINEMENT CREATION FICHIER REASME.md
+# ENTRAINEMENT CREATION FICHIER README.md
 
 # P12_OpenClassrooms_SportSee
 
@@ -141,19 +141,15 @@ N'oublie pas que toute l'application HRNet doit être convertie en React :
 - Si tu as le temps, tu peux tester le code React avec une suite de tests unitaires. Sinon, seuls des tests manuels sont nécessaires. 
 
 
-# Installation 
-
-
-##Tests de performance
+## Tests de performance
 
 Nous voulons également mesurer des données quantifiables (ex. : temps de chargement des pages, appels réseau) pour nous assurer que la conversion de l'application à React améliore effectivement les performances. Pour cela, fais bien des audits de performance Lighthouse. Pour comparer, tu devras en faire un pour l'application jQuery HRnet actuelle, puis un autre une fois que l'application et le plugin jQuery choisi seront convertis en React.
 
 Penses bien à faire un build de l'application avant de faire ton audit. Ça impactera grandement les performances de ton application
 
-
 ## Prerequisites
 
-- [NodeJS ( >=version 12  && <= version16.13.2)](https://nodejs.org/en/)
+- [NodeJS (version16.13.2)](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/getting-started/install)
 
 ## Dependencies
@@ -164,19 +160,33 @@ Penses bien à faire un build de l'application avant de faire ton audit. Ça imp
 - [react-redux](https://redux.js.org/introduction/installation)
 - [@reduxjs/toolkit](https://redux.js.org/introduction/installation)
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start)
-- [prop-types](https://github.com/facebook/prop-types)
+- [react-datepicker](https://reactdatepicker.com)
+- [react-select](www.npmjs.com/package/react-select)
+- [react-table](https://react-table-v7.tanstack.com/)
+- [react-modal-by-vyplasiln](https://www.npmjs.com/package/react-modal-by-vyplasiln?activeTab=readme)
 
 
-## Installation
 
-### 1- Install and launch the BackEnd
+# Installation 
 
-- This project uses an API available [here](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API/).
+- Clone ce rélertoire :
+    git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
+- Après clonage, installatons des dépendances par npm ou yarn :
+    - avec npm :
+    npm i (ou npm install)
+    - avec yarn :
+    yarn (ou yarn install)
+- lancer l'application :  
+    - avec npm :
+    npm start
+    - avec yarn :
+    yarn start
 
-### 2- Install and launch the FrontEnd
+
+# Installation  (English version)
 
 - Clone this repository :
-    git clone https://github.com/vypnico974/P13_OpenClassrooms_ArgentBank.git
+    git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
 - Package installations after cloning, npm or yarn :
     - with npm :
     npm i (or npm install)
@@ -187,7 +197,7 @@ Penses bien à faire un build de l'application avant de faire ton audit. Ça imp
     npm start
     - with yarn :
     yarn start
-- There are 2 users available and their URL are : `http://localhost/`
+
 
 
 
