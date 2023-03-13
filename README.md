@@ -112,7 +112,7 @@
 
 
 
-# P14 OpenClassrooms Wealth Health
+# P14 OpenClassrooms Wealth Health - Solution nr 1
 
 ![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)   
 
@@ -121,9 +121,6 @@
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 
-![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/create_employee.png)
-
-![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/list_employee.png)
 ## La mission
 
 Vous travaillez pour le département technologique d'une grande société financière, WealthHealth. 
@@ -150,12 +147,23 @@ Nous voulons également mesurer des données quantifiables (ex. : temps de charg
 
 Penses bien à faire un build de l'application avant de faire ton audit. Ça impactera grandement les performances de ton application
 
-## Prerequisites
+
+## Solution nr 1
+
+La solution nr 1 est réalisée essentiellement par l'utiliation de librairies.
+Pour [solution nr 2](https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth_V2) 
+utilisation de composants personnalisés au lieu des librairies :
+ - react-table
+ - react-datepicker
+ - react-select
+
+
+## Prérequis
 
 - [NodeJS (version16.13.2)](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/getting-started/install)
 
-## Dependencies
+## Dépendances
 
 - A text editor (example : [Visual Studio Code](https://code.visualstudio.com/))
 - [react](https://reactjs.org/)
@@ -172,7 +180,7 @@ Penses bien à faire un build de l'application avant de faire ton audit. Ça imp
 
 # Installation 
 
-- Clone ce rélertoire :
+- Clone ce répertoire :
     git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
 - Après clonage, installatons des dépendances par npm ou yarn :
     - avec npm :
@@ -200,6 +208,13 @@ Penses bien à faire un build de l'application avant de faire ton audit. Ça imp
     npm start
     - with yarn :
     yarn start
+
+
+![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/create_employee.png)
+
+![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/list_employee.png)
+
+
 
 
 
