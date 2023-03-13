@@ -121,9 +121,9 @@
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 
-![logo](https://raw.githubusercontent.com/vypnico974/P13_OpenClassrooms_ArgentBank/main/src/assets/screen1_presentation.png)
+![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/create_employee.png)
 
-![logo](https://raw.githubusercontent.com/vypnico974/P13_OpenClassrooms_ArgentBank/main/src/assets/screen2_presentation.png)
+![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/list_employee.png)
 
 ## La mission
 
