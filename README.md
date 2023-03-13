@@ -151,6 +151,15 @@ Penses bien à faire un build de l'application avant de faire ton audit. Ça imp
 ## Solution nr 1
 
 La solution nr 1 est réalisée essentiellement par l'utiliation de librairies.
+L’application HRnet avec React fonctionne de la même manière que dans sa
+version originale, avec un formulaire qui permet aux utilisateurs de créer de
+nouveaux enregistrements d'employés et une vue qui répertorie les employés
+actuels. Pour le formulaire de création de nouveaux enregistrement, je propose
+plusieurs améliorations possible qui sont actuellement désactivées (en commentaire) : 
+- champs obligatoires
+- règle de saisies
+- remise à zéro du formulaire après création
+
 Pour [solution nr 2](https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth_V2) 
 utilisation de composants personnalisés au lieu des librairies :
  - react-table
@@ -211,13 +220,10 @@ utilisation de composants personnalisés au lieu des librairies :
 
 
 
+
 ![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/create_employee.png)
 
 ![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/list_employee.png)
-
-
-
-
 
 
 
