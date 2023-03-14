@@ -331,14 +331,14 @@ Utilisation de composants personnalisés au lieu des librairies suivantes :
     - with yarn :
     yarn start
 - To create and run a production build : 
-   - with npm : 
-     npm run build
-     npm install -g serve
-     serve -s build
+   - with npm :
+      - npm run build
+      - npm install -g serve
+      - serve -s build
     - with yarn : 
-     yarn run build
-     yarn install -g serve
-     serve -s build
+     - yarn run build
+     - yarn install -g serve
+     - serve -s build
 
 
 
