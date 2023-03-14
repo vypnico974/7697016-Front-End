@@ -262,6 +262,16 @@ Nous voulons également mesurer des données quantifiables (ex. : temps de charg
 
 Penses bien à faire un build de l'application avant de faire ton audit. Ça impactera grandement les performances de ton application
 
+
+## Solution nr 2
+
+Pour la solution nr 2, j'ai limité l'utilisation de librairie par rapport
+à la [solution nr 1](https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth).
+Utilisation de composants personnalisés au lieu des librairies suivantes : 
+- react-table
+- react-select
+- react-datapicker
+
 ## Prérequis
 
 - [NodeJS (version16.13.2)](https://nodejs.org/en/)
@@ -276,16 +286,6 @@ Penses bien à faire un build de l'application avant de faire ton audit. Ça imp
 - [@reduxjs/toolkit](https://redux.js.org/introduction/installation)
 - [react-router-dom](https://reactrouter.com/web/guides/quick-start)
 - [react-modal-by-vyplasiln](https://www.npmjs.com/package/react-modal-by-vyplasiln?activeTab=readme)
-
-
-## Solution nr 2
-
-Pour la solution nr 2, j'ai limité l'utilisation de librairie par rapport
-à la [solution nr 1](https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth).
-Utilisation de composants personnalisés au lieu des librairies suivantes : 
-- react-table
-- react-select
-- react-datapicker
 
 
 # Installation 
@@ -332,13 +332,13 @@ Utilisation de composants personnalisés au lieu des librairies suivantes :
     yarn start
 - To create and run a production build : 
    - with npm : 
-    npm run build
-    npm install -g serve
-    serve -s build
+     npm run build
+     npm install -g serve
+     serve -s build
     - with yarn : 
-    yarn run build
-    yarn install -g serve
-    serve -s build
+     yarn run build
+     yarn install -g serve
+     serve -s build
 
 
 
