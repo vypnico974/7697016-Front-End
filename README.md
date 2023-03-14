@@ -112,7 +112,7 @@
 
 
 
-# P14 OpenClassrooms Wealth Health - Solution nr 1
+# P14 OpenClassrooms Wealth Health - solution nr 1
 
 ![Author](<https://img.shields.io/badge/Author-Nicolas%20Vyplasil-green>)   
 
@@ -192,15 +192,21 @@ utilisation de composants personnalisés au lieu des librairies :
 - Clone ce répertoire :
     git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
 - Après clonage, installatons des dépendances par npm ou yarn :
-    - avec npm :
-    npm i (ou npm install)
-    - avec yarn :
-    yarn (ou yarn install)
-- lancer l'application :  
-    - avec npm :
-    npm start
-    - avec yarn :
-    yarn start
+    - avec npm : npm i (ou npm install)
+    - avec yarn :yarn (ou yarn install)
+- Excécuter l'application :  
+    - avec npm :npm start
+    - avec yarn : yarn start
+- Pour créer une version de production : 
+  - avec npm : npm run build 
+  - avec yarn : yarn run build
+- Excécuter une version de production :
+  - avec npm :
+   - npm install -g serve
+   - serve -s build
+  - avec yarn : 
+   - yarn install -g serve
+   - serve -s build
 
 
 # Installation  (English version)
@@ -208,23 +214,26 @@ utilisation de composants personnalisés au lieu des librairies :
 - Clone this repository :
     git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
 - Package installations after cloning, npm or yarn :
-    - with npm :
-    npm i (or npm install)
-    - with yarn :
-    yarn (or yarn install)
+    - with npm : npm i (or npm install)
+    - with yarn : yarn (or yarn install)
 - Run the FrontEnd :  
-    - with npm :
-    npm start
-    - with yarn :
-    yarn start
-
+    - with npm : npm start
+    - with yarn : yarn start
+- To create and run a production build : 
+   - with npm : 
+     - npm run build
+     - npm install -g serve
+     - serve -s build
+   - with yarn : 
+     - yarn run build
+     - yarn install -g serve
+     - serve -s build
 
 
 
 ![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/create_employee.png)
 
 ![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/list_employee.png)
-
 
 
 # P14 OpenClassrooms Wealth Health - solution nr 2
@@ -262,7 +271,6 @@ Nous voulons également mesurer des données quantifiables (ex. : temps de charg
 
 Penses bien à faire un build de l'application avant de faire ton audit. Ça impactera grandement les performances de ton application
 
-
 ## Solution nr 2
 
 Pour la solution nr 2, j'ai limité l'utilisation de librairie par rapport
@@ -271,6 +279,7 @@ Utilisation de composants personnalisés au lieu des librairies suivantes :
 - react-table
 - react-select
 - react-datapicker
+
 
 ## Prérequis
 
@@ -293,27 +302,21 @@ Utilisation de composants personnalisés au lieu des librairies suivantes :
 - Clone ce répertoire :
     git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
 - Après clonage, installatons des dépendances par npm ou yarn :
-    - avec npm :
-    npm i (ou npm install)
-    - avec yarn :
-    yarn (ou yarn install)
+    - avec npm : npm i (ou npm install)
+    - avec yarn :yarn (ou yarn install)
 - Excécuter l'application :  
-    - avec npm :
-    npm start
-    - avec yarn :
-    yarn start
+    - avec npm :npm start
+    - avec yarn : yarn start
 - Pour créer une version de production : 
+  - avec npm : npm run build 
+  - avec yarn : yarn run build
+- Excécuter une version de production :
   - avec npm :
-  npm run build 
-  - avec yarn :  
-  yarn run build
-- Excécuter la version de production :
-  - avec npm :
-  npm install -g serve
-  serve -s build
+   - npm install -g serve
+   - serve -s build
   - avec yarn : 
-  yarn install -g serve
-  serve -s build
+   - yarn install -g serve
+   - serve -s build
 
 
 # Installation  (English version)
@@ -321,20 +324,37 @@ Utilisation de composants personnalisés au lieu des librairies suivantes :
 - Clone this repository :
     git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
 - Package installations after cloning, npm or yarn :
-    - with npm :
-    npm i (or npm install)
-    - with yarn :
-    yarn (or yarn install)
+    - with npm : npm i (or npm install)
+    - with yarn : yarn (or yarn install)
 - Run the FrontEnd :  
-    - with npm :
-    npm start
-    - with yarn :
-    yarn start
+    - with npm : npm start
+    - with yarn : yarn start
 - To create and run a production build : 
-   - with npm :
-      - npm run build
-      - npm install -g serve
-      - serve -s build
+   - with npm : 
+     - npm run build
+     - npm install -g serve
+     - serve -s build
+   - with yarn : 
+     - yarn run build
+     - yarn install -g serve
+     - serve -s build
+
+
+# Installation  (English version)
+
+- Clone this repository :
+    git clone https://github.com/vypnico974/P14_OpenClassrooms_WealthHealth.git
+- Package installations after cloning, npm or yarn :
+    - with npm : npm i (or npm install)
+    - with yarn : yarn (or yarn install)
+- Run the FrontEnd :  
+    - with npm : npm start
+    - with yarn : yarn start
+- To create and run a production build : 
+   - with npm : 
+     - npm run build
+     - npm install -g serve
+     - serve -s build
     - with yarn : 
      - yarn run build
      - yarn install -g serve
@@ -346,6 +366,3 @@ Utilisation de composants personnalisés au lieu des librairies suivantes :
 ![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/create_employee_v2.png)
 
 ![logo](https://raw.githubusercontent.com/vypnico974/7697016-Front-End/master/images/list_employee_v2.png)
-
-
-
