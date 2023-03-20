@@ -360,6 +360,7 @@ Utilisation de composants personnalisés au lieu des librairies suivantes :
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk)
 [![Vite](https://img.shields.io/badge/VITE-V__4.2.0-orange)](https://dev.to/envoy_/150-badges-for-github-pnk)
 ![Author](https://badges.aleen42.com/src/vitejs.svg)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ## La mission
