@@ -450,11 +450,11 @@ de fichier (manual chunks) pour permettre l'amélioration de la performance en t
   - avec yarn : yarn run build
 - Excécuter une version de production :
   - avec npm :
-   - npm install -g serve
-   - serve -s build
+    - npm install -g serve
+    - serve -s build
   - avec yarn : 
-   - yarn install -g serve
-   - serve -s build
+    - yarn install -g serve
+    - serve -s build
 
 
 # Installation  (English version)
